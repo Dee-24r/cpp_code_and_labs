@@ -1,0 +1,5 @@
+Fido d 22.25
+Rover b .5
+Purrfect c 20
+Barkly d 65
+Cuddles c 15

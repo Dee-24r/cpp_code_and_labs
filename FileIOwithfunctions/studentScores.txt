@@ -1,0 +1,8 @@
+Last Name      First Name     Quiz 1   Quiz 2   Quiz 3   Quiz 4   Average  Grade
+
+Oshebeyo       Oluwafunmilayo 100.00   100.00   100.00   100.00   100.00   A    
+Olakanmi       Dara           85.00    73.25    90.50    66.75    82.92    B    
+Ochima         Zara           77.50    82.00    69.25    91.00    83.50    B    
+Amusan         Wura           77.50    82.00    69.25    91.00    83.50    B    
+Kendra         Alecs          81.50    67.00    79.75    90.25    83.83    B    
+Amaji          Anibe          72.00    85.50    68.25    94.00    83.83    B    

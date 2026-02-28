@@ -1,0 +1,12 @@
+.vs/
+x64/
+Debug/
+*.exe
+*.pdb
+*.idb
+*.ilk
+*.obj
+*.log
+*.tlog
+*.suo
+*.ipch

@@ -1,0 +1,7 @@
+Last Name    First Name   Quiz 1  Quiz 2  Quiz 3  Quiz 4  Average 
+
+Copeland     Amanda       100.00   100.00   100.00   100.00   100.00   
+Amusan       Courtney     85.00    73.25    90.50    66.75    82.92    
+Kendra       Jason        77.50    82.00    69.25    91.00    83.50    
+Bluebay      Louis        77.50    82.00    69.25    91.00    83.50    
+Anan         Maureen      81.50    67.00    79.75    90.25    83.83    
