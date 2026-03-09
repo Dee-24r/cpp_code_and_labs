@@ -1,5 +1,7 @@
 # Lists Implementation Project
 
+I am currently still working on this project, and I will soon update with the implementation of Singly and Doubly Linked Lists.
+
 ## Overview
 This project implements three fundamental list data structures in C++: **Array-Based Lists**, **Dynamic Array-Based Lists**, and **Singly Linked Lists**. Each implementation provides core list operations such as insertion, deletion, retrieval, and searching.
 
